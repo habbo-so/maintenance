@@ -28,7 +28,7 @@ $(window).load(function() {
 
         $('.slideshow-about').vegas({
             slides: [
-                { src: 'https://www.habbo.so/hero-bg.png' }
+                { src: 'https://www.habbo.so/img/hero-bg.png' }
             ],
 
             // Delay beetween slides in milliseconds.
